@@ -1,0 +1,6 @@
+C:\Daten\m403\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Daten\m403\Memory\Memory\bin\Debug\Memory.exe
+C:\Daten\m403\Memory\Memory\bin\Debug\Memory.pdb
+C:\Daten\m403\Memory\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+C:\Daten\m403\Memory\Memory\obj\Debug\Memory.exe
+C:\Daten\m403\Memory\Memory\obj\Debug\Memory.pdb
